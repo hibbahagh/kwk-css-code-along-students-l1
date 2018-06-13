@@ -1,1 +1,14 @@
 /* add CSS class and element and selectors here */
+body {
+  background-color:pink;
+  color: yellow;
+}
+
+h3 {
+  font-size: 300%;
+  color:black;
+  text-shadow: 2px 2px #ffff00;
+}
+div {
+  border-style: dotted;
+}
